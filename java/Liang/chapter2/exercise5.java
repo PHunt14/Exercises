@@ -6,7 +6,7 @@ package chapter2;
 
 import java.util.Scanner;
 
-public class Exercise5 {
+public class exercise5 {
 	
 	// main method
 	public static void main(String[] args) {
