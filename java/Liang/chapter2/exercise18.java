@@ -18,7 +18,29 @@ public class exercise18 {
 	public static void main(String[] args) {
 		
 		// display results
-		System.out.println("The wind chill index is " + windChill);
+		System.out.println("a		b		pow(a,b)");
+		float a = 1;
+		float b = 2;
+
+		// show table
+		System.out.println(a + "		" + b + "		" + Math.pow(a, b));
+		// increment a
+		a++;
+		// increment b
+		b++;
+		System.out.println(a + "		" + b + "		" + Math.pow(a, b));
+		a++;
+		b++;
+		System.out.println(a + "		" + b + "		" + Math.pow(a, b));
+		a++;
+		b++;
+		System.out.println(a + "		" + b + "		" + Math.pow(a, b));
+		a++;
+		b++;
+		System.out.println(a + "		" + b + "		" + Math.pow(a, b));
+		a++;
+		b++;
+		
 
 	}
 
